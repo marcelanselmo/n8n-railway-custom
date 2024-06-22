@@ -1,4 +1,4 @@
-FROM node:alpine
+FROM node:1.46.0
 
 ARG N8N_VERSION=latest
 ARG PGPASSWORD
